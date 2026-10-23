@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: EllesmereUI Temp Shapeshift Bar
+## Notes: Action Bar 1 pages to the temporary shapeshift bar (event forms like the zombie debuff) on EllesmereUI Action Bars.
+## Author: Dworak
+## Version: 1.1.0
+## Dependencies: EllesmereUI, EllesmereUIActionBars
+
+TempShapeshiftBar.lua
